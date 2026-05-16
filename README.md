@@ -1,126 +1,166 @@
-﻿<p align="center">
+# NO ITS NOT II
+Thank you guys for 2 years, it's been a pleasure <3
+
+Forked by alt037181 DONT attack me
+
+<p align="center">
   <a href="#"><img src="Resources/GitHub/icon.png"></a>
+  <a href="#"><img src="Resources/GitHub/title.png"></a>
 </p>
 
 ---
 
 <p align="center">
-	<a href="https://github.com/Seralyth/Console/releases"><img src="https://img.shields.io/github/v/release/Seralyth/Console?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/Seralyth/Console/releases/latest"><img src="https://img.shields.io/github/downloads/Seralyth/Console/latest/Console.dll?style=for-the-badge"></a>
+	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
+	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
+	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
 ---
 
-# Console
-**The** administrator library for Gorilla Tag mods to manage their users.
+# <img src="Resources/GitHub/cone-emoji.png" height=26px> ii's Stupid Menu  
+
+ii's Stupid Menu is a **feature-packed** mod menu for Gorilla Tag, built by me, [**iiDk**](https://github.com/iiDk-the-actual). Whether you just want mods, are a developer, or anything inbetween, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
+
+> Why settle for boring when you can have *stupidly* good?  
+
+<details>
+  <summary><b>💡 Why open-source?</b></summary>
+	
+Great question. The modding community used to be about **sharing, learning, and improving** together. But nowadays, everything’s locked behind **paywalls and obfuscation**. That’s not how it should be.  
+
+By making this menu open-source, I'm giving **everyone** the opportunity to:  
+- Learn how mod menus work 
+- Experiment with new ideas  
+- Contribute to the Gorilla Tag modding scene  
+- ⭐ **Keep modding free and accessible**  
+
+Let's bring back the collaboration of modding. No paywalls, no secrets, no malware, just good mods.  
+
+</details>
+
+<details>
+  <summary><b>❓ Can I use your code?</b></summary>
+	
+**Of course!** But there’s a catch: you gotta play fair. **[GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html) rules apply**, which means that if you use my code:  
+- Your project **must** also be open-source.  
+- Give credit where it's due.
+- No shady stuff.
+- **[Follow the license.](https://www.gnu.org/licenses/gpl-3.0.html)**
+
+> "You wouldn’t steal a method."<br>
+> [🎥 *(Or would you?)*](https://www.youtube.com/watch?v=zMBqPdMzZ9E)
+
+</details>
+
+<details>
+  <summary><b>💾 Installation</b></summary>
+	
+1. **Download** the latest release **[here](https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest)**
+2. **Drag & Drop** `iis_Stupid_Menu.dll` into your plugins folder  
+3. **Launch** Gorilla Tag and enjoy!
+
+**🧱 From Source Code (for developers!)**
+
+1. Download the source code **[here](https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest)**
+2. Edit `Directory.Build.props` and update `<GamePath>` if your Gorilla Tag is in a custom spot
+3. Build the project with `Ctrl + Shift + B`<Br>
+✅ The DLL will automatically go into your Gorilla Tag plugins folder
+
+</details>
 
 ---
 
-## What is Console?
+<details>
+  <summary><b>🎛️ System Compatibility</b></summary>
+	
+| Operating System | Menu | Fonts | Images | Sounds | Videos |
+|------------------|------|--------|--------|--------|--------|
+|<img src="Resources/GitHub/windows-10.png" height=20px> Windows 10|✅|✅|✅|✅|✅|
+|<img src="Resources/GitHub/windows-11.png" height=20px> Windows 11|✅|✅|✅|✅|✅|
+|<img src="Resources/GitHub/macos.png" height=20px> Mac OS|✅|✅|✅|✅|❌|
+|<img src="Resources/GitHub/linux.png" height=20px> Linux|✅|✅|✅|✅|❌|
 
-**Console** is a network used to control your Gorilla Tag mods' users and other users on the network. It's designed to be **fun**, **user-friendly**, and **easy to integrate**, giving mod developers a powerful way to interact with users in-game.
+> ✅ Works as intended ; ⚠️ Semi functional ; ❌ Does not work ; ❓ Untested
 
-Whether you want to send real-time messages, spawn simple objects, or even import any custom models you wish, Console allows you to add interactive features that enhance the experience of your mod users.
+</details>
 
-By installing this mod, you will be able to receive events from Console administrators using the commands below. You will not be able to execute these commands without authority.
+<details>
+  <summary><b>🔗 Headset Compatibility</b></summary>
+	
+| Headset | Menu | Mods |
+|---------|------|------|
+|Rift|✅|✅|
+|Rift S|✅|✅|
+|Oculus Go|⚠️|❌|
+|Quest 1|✅|✅|
+|Quest 2|✅|✅|
+|Quest Pro|✅|✅|
+|Quest 3/3s|✅|✅|
+|Pico 4/Pro|✅|✅|
+|Pico 4 Ultra Pro|✅|⚠️|
+|Valve Index|✅|✅|
+|HTC VIVE/Pro|✅|⚠️|
+|HP Reverb G1/G2|✅|⚠️|
 
----
+> ✅ Fully functional ; ⚠️ Limited functionality ; ❌ Not functionable ; ❓ Untested
 
-## Features
+</details>
 
-* ✅ Easy integration into any Gorilla Tag mod
-* 🔧 Admin commands and custom log output
-* 🛠️ Customizable to suit your mod's style
-* 👥 Real-time interaction with users
+<details>
+  <summary><b>🗣️ Contact Information</b></summary>
+	
+Need help or want to collaborate? Here are some of my sources of contact:
+- Telegram: [@crimsoncauldron](https://t.me/crimsoncauldron)
+- Discord: [@crimsoncauldron](https://discord.gg/iidk)
+- YouTube: [@iiDk_](https://www.youtube.com/@iiDk_)
+- Email: [admin@goldentrophy.software](mailto:admin@goldentrophy.software)
 
----
+</details>
 
-# Installation 
-1️⃣ **Download** the latest release 👉 [here](https://github.com/iiDk-the-actual/Console/releases/latest)  
-2️⃣ **Drag & Drop** `Console.dll` into your **plugins** folder  
-3️⃣ **Launch** Gorilla Tag and enjoy!
+<details open>
+  <summary><b>💖 Support</b></summary>
+	
+If you wish to support me, here are some of the ways you can!
 
----
+| Platform   | Link | Address |
+|------------|------|---------|
+| Bitcoin    | [![BTC](https://img.shields.io/badge/Bitcoin-Donate-yellow?style=for-the-badge&logo=bitcoin)](bitcoin:bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx) | [bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx](bitcoin:bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx) |
+| Ethereum   | [![ETH](https://img.shields.io/badge/Ethereum-Donate-blue?style=for-the-badge&logo=ethereum)](ethereum:0xa1A78771422F602d9Ded0E8373d5A3D77E146877) | [0xa1A78771422F602d9Ded0E8373d5A3D77E146877](ethereum:0xa1A78771422F602d9Ded0E8373d5A3D77E146877) |
+| Litecoin   | [![LTC](https://img.shields.io/badge/Litecoin-Donate-lightgrey?style=for-the-badge&logo=litecoin)](litecoin:LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5) | [LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5](litecoin:LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5) |
+| XRP        | [![XRP](https://img.shields.io/badge/XRP-Donate-23292F?style=for-the-badge&logo=xrp)](xrp:rpLLN1Gse5zFnVxwQkMvh6jvKKtPrAjvLV) | [rpLLN1Gse5zFnVxwQkMvh6jvKKtPrAjvLV](xrp:rpLLN1Gse5zFnVxwQkMvh6jvKKtPrAjvLV) |
+| Patreon    | [![Patreon](https://img.shields.io/badge/Patreon-iiDk-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/iiDk) | [iiDk](https://www.patreon.com/iiDk) |
+| CashApp    | [![CashApp](https://img.shields.io/badge/CashApp-$iiWasHere-green?style=for-the-badge&logo=cashapp)](https://cash.app/$iiWasHere) | [$iiWasHere](https://cash.app/$iiWasHere) |
 
-## Implementation (for developers)
+</details>
 
-1. Drag all files from Console (except Plugin.cs and PluginInfo.cs) into your project under a folder
-3. Modify the configuration of Console.cs and ServerData.cs in the "Configuration" regions
-3. Add this snippet of code into your BaseUnityPlugin (from Plugin.cs):
-```csharp
-// Put this snippet of code in your BaseUnityPlugin
-void Start() => Console.LoadConsole();
-```
+> [!NOTE] 
+> This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.<br>
+> Menu sends requests to https://iidk.online for telemetry, administrative, and TTS (text to speech) purposes.<br>
+> Menu sends requests to https://text.pollinations.ai for the mod **AI Assistant**. (when enabled)<br>
+> Menu sends requests to https://lazypy.ro for many TTS voices.<br>
+> Menu connects to wss://iidk.online for friend system and administrative purposes.<br>
+> The donate, search, star and speak symbols are made by [Icons8](https://icons8.com).
 
----
+> ii's Stupid Menu  README.md<br>
+> A mod menu for Gorilla Tag with over 1000+ mods
+>
+> Copyright (C) 2026  Goldentrophy Software
+> https://github.com/iiDk-the-actual/iis.Stupid.Menu
+> 
+> This program is free software: you can redistribute it and/or modify
+> it under the terms of the GNU General Public License as published by
+> the Free Software Foundation, either version 3 of the License, or
+> (at your option) any later version.
+> 
+> This program is distributed in the hope that it will be useful,
+> but WITHOUT ANY WARRANTY; without even the implied warranty of
+> MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+> GNU General Public License for more details.
+> 
+> You should have received a copy of the GNU General Public License
+> along with this program.  If not, see <https://www.gnu.org/licenses>.
 
-## 🧪 Example Usage
-
-To execute Console commands, you can use the `Console.ExecuteCommand()` method with its given parameters. Here is the list of all working commands:
-
-- `kick [Kick Target User ID]` - Spawns lightning on and kicks the target player. Send as all for the lightning to network.
-- `silkick [Kick Target User ID]` - Kicks the target player with no effects.
-- `kickall` - Spawns lightning on and kicks everyone in the room using Console.
-
-- `crash` - Crashes the receiver.
-- `block` - Blocks the receiver from joining lobbies, can be easily bypassed.
-
-- `join [Room Name]` - Makes the receiver join the specified room.
-
-- `isusing` - Used to find other people using Console. Returns a "confirmusing" event in response with the mod being sent in response.
-- `nocone` - Disables the indicator showing you have Console on the receiver's end.
-
-- `exec-safe` - Runs a lua script in SafeLua by name on the receiver.
-
-- `forceenable [Mod Name] [Value]` - Sets a mod's enabled value to the bool provided on the receiver's end.
-- `toggle [Mod Name]` - Toggles a mod on or off on the receiver's end.
-- `togglemenu [Toggle]` - Toggles their menu on or off on the receiver's end.
-- `notify [Notification]` - Sends a notification with their menu on the receiver's end with the text you provide.
-
-- `sleep [Duration ms]` - Sleeps on the targets main thread for duration.
-- `weather [Raining]` - Sets the weather of the user.
-- `time [Time]` - Sets whether it's raining or not for the client.
-- `rigposition [Enabled] [Body [Position] [Rotation]] [Left Hand [Position] [Rotation]] [Right Hand [Position] [Rotation]]` - Sets whether a rig is enabled or disabled.
-- `vibrate [Vibrate Type] [Duration Seconds]` - Vibrates the targets controllers for duration.
-
-- `tp [Position]` - Teleports the receiver to the position provided.
-- `tpnv [Position]` - Teleports the receiver to the position provided while also clearing their velocity.
-- `vel [Velocity]` - Sets the receiver's velocity to the vector provided.
-- `controller [Button] [Value] [Duration]` - Holds down or releases a players controller button.
-
-- `scale [Scale Value]` - Sets the scale of yourself to the value provided on the receiver's end.
-- `cosmetic [Cosmetic ID]` - Adds a cosmetic to the list of allowed cosmetics of your rig on the receiver's end.
-
-- `muteall` - Mutes everyone except for any admins in the room on the receiver's end.
-- `unmuteall` - Unmutes everyone in the room on the receiver's end.
-- `mute [Mute Target User ID]` - Mutes the target for the receiver.  
-- `unmute [Unmute Target User ID]` - Unmutes the target for the receiver.  
-
-- `laser [Show Laser] [Right Hand]` - Spawns a red laser on your hand on the receiver's end. It faces down the palm of your hand.
-- `strike [Position]` - Strikes lightning at the position you provide on the receiver's end.
-
-- `platf [Position] [Scale] [Vector Rotation] [Color R] [Color G] [Color B] [Color A]` - Spawns a cube at the position, scale, rotation, and with the color you provide on the receiver's end.
-- `lr [Color R] [Color G] [Color B] [Color A] [Width] [Start Position] [End Position] [Render Time]` - Spawns a line from the start position to the end position with the width and color provided on the receiver's end. It will destroy after the render time in seconds.
-
-- `asset-spawn [Bundle] [Name] [Index]` - Spawns an asset with the ID specified.
-- `asset-destroy [Index]` - Destroys the specified asset.
-
-- `asset-setposition [Index] [Position]` - Sets the position of the specified asset.
-- `asset-setlocalposition [Index] [Position]` - Sets the local position of the specified asset.
-
-- `asset-setrotation [Index] [Rotation]` - Sets the rotation of the specified asset.
-- `asset-setlocalrotation [Index] [Rotation]` - Sets the local rotation of the specified asset.
-
-- `asset-setscale [Index] [Scale]` - Sets the local scale of the specified asset.
-- `asset-setanchor [Index] [Limb] (Player Actor Number)` - Anchors the specified asset to a position on your rig if the actor number is not specified.
-
-- `asset-playanimation [Index] [Object] [Clip Name]` - Plays the specified animation on the specified object in the specified asset.
-- `asset-playsound [Index] [Object] (Sound Name)` - Plays a sound / the specified sound on the specified object in the specified asset.
-- `asset-settexture [Index] [Object] [Texture URL]` - Sets the texture of the specified object in the specified asset to the specified URL.
-- `asset-setsound [Index] [Object] [Sound URL]` - Plays the specified sound from the specified URL on the specified object in the specified asset.
-- `asset-setvideo [Index] [Object] [Video URL]` - Plays the specified video from the specified URL on the specified object in the specified asset.
----
-
-## 🧑‍💻 Contributing
-
-Pull requests are welcome! If you have suggestions for features or improvements, feel free to open an issue or submit a pull request.
+<p align="center">
+  <img src="Resources/GitHub/byebye.gif">
+</p>
